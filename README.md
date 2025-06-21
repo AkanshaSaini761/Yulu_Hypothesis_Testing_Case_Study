@@ -1,4 +1,4 @@
-# 🚲 Yulu Bike Sharing Demand Analysis
+# 🚲 Yulu Bike Sharing Demand Analysis Case Study
 
 ## 🏢 About Yulu
 
